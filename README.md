@@ -2,7 +2,7 @@
 
 I'm Maxime — a market finance student passionate about trading, data science, and algorithmic tools.
 
-🚀 I'm building [`mlarchitect`](https://github.com/yourusername/mlarchitect), a modular Python package for designing and testing ML pipelines in finance.
+🚀 I'm building [`mlarchitect`](https://github.com/maximemasson/mlarchitect), a modular Python package for designing and testing ML pipelines in finance.
 
 📊 I love working on projects related to volatility surfaces, bond pricing, and credit risk modeling.  
 Check out some of my work below:

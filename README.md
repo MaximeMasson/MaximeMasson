@@ -10,7 +10,7 @@ Here, I share my personal and academic projects, including tools I've developed 
 
 `mlarchitect` is a flexible framework that simplifies the design, testing, and evaluation of machine learning pipelines, particularly suited for financial applications. It supports modular workflows, backtesting strategies, and custom metric evaluation.
 
-Check out the repo here 👉 [mlarchitect](https://github.com/yourusername/mlarchitect)  
+Check out the repo here 👉 [mlarchitect](https://github.com/maximemasson/mlarchitect)  
 (Currently under development — contributions and feedback are welcome!)
 
 ---

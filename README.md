@@ -1,39 +1,54 @@
-# Welcome to my Github!
+# Welcome to my GitHub 👋
 
-Hey, I'm Maxime, a student in market finance, and here, I store all my projects related to market finance. 
+Hey, I'm Maxime, a student in market finance with a strong interest in quantitative research, trading strategies, and data-driven financial applications.
 
-I have gained valuable experience through my internships at Barclays and Natixis, where I worked as a Fixed Income Trader Intern. During these experiences, I contributed to pricing models, risk calculations, and the development of dashboards and algorithmic tools, improving operational efficiency and generating actionable trade ideas.
-
-- **Barclays:** Developed a web-based dashboard to manage daily swaption expiries, significantly improving trader efficiency by automating error detection and booking processes. Also implemented machine learning models to forecast volatility surface strategies, which were integrated into an intuitive dashboard for actionable trade and hedge insights.
-- **Natixis:** Created an algorithmic tool generating indicators using statistical models and yield curve analysis to support bond spread and fly strategies. Additionally, built a liquidity flow analysis dashboard used by traders and sales teams to monitor real-time client demand trends, reducing the desk's average cover ratio.
-
-This project contains the following directories:
-
-## Fixed Income Analysis - Fair Value (2025)
-This directory contains code related to analyzing and calculating the fair value of fixed-income securities. The focus is on understanding pricing mechanisms, yield curves, and other aspects of fixed-income instruments.
-
-## Machine Learning - Loan Default Probability Models (2025)
-This directory contains machine learning models for predicting loan default probabilities. The focus is on using historical data to understand credit risk and build predictive models for risk assessment.
-
-## Volatility Surface (2023)
-This directory contains code related to modeling the volatility surface of a financial asset. The volatility surface visually represents implied volatility as a function of the asset's price and time to maturity.
-
-Here is an example for AAPL at the beginning of 2023:
-
-<p align="center">
-<img src="https://github.com/MaximeMasson/MarketFinance/blob/main/Volatility Surface Modelisation/volatility_surface_AAPL.png" data-canonical-src="https://github.com/MaximeMasson/MarketFinance/blob/main/Volatility Surface Modelisation/volatility_surface_AAPL.png" width="460" height="401" />
-</p>
-
-## Theory Application (2023)
-This directory contains code related to applying financial theories to real-world data. Subdirectories include:
-
-- **Brownian Motion:** Code for simulating Brownian motion, which is used to model the random behavior of financial assets.
-- **Local Volatility:** Code for modeling the local volatility of a financial asset. Local volatility measures how volatility changes with price and time.
-- **Option Pricing:** Code for pricing financial options using Monte Carlo and Black-Scholes methods, along with simulations of the Greeks (sensitivity measures).
-
-## LLM - Fast Financial Time (2022)
-This directory contains an application that can summarize the daily market news of the Financial Times using the Chat GPT API. These resources help quickly understand the latest financial news. The code is still in development, and updates will be made soon.
+Here, I share my personal and academic projects, including tools I've developed to model market behavior, price derivatives, and automate analysis. I also recently released my Python package `mlarchitect`, designed to streamline the design and evaluation of machine learning pipelines in finance.
 
 ---
 
-**Note:** This project is for educational purposes only and should not be used for commercial purposes. The provided code is not exhaustive and may require modifications to meet specific needs.
+## 🔧 My Python Package: `mlarchitect`
+
+`mlarchitect` is a flexible framework that simplifies the design, testing, and evaluation of machine learning pipelines, particularly suited for financial applications. It supports modular workflows, backtesting strategies, and custom metric evaluation.
+
+Check out the repo here 👉 [mlarchitect](https://github.com/yourusername/mlarchitect)  
+(Currently under development — contributions and feedback are welcome!)
+
+---
+
+## 📁 Highlighted Projects
+
+### 📊 Fixed Income Analysis – Fair Value (2025)
+Code and models to assess the fair value of bonds. This includes yield curve bootstrapping, spread analysis, and fixed income pricing techniques.
+
+### 🤖 Machine Learning – Loan Default Prediction (2025)
+Supervised learning models to estimate default probability using historical loan datasets. Includes feature engineering, model tuning, and interpretability analysis.
+
+### 🌀 Volatility Surface Modeling (2023)
+Tools to construct and visualize implied volatility surfaces for options. The models support both Black-Scholes and local volatility frameworks.
+
+### 📘 Financial Theory Applications (2023)
+Simulation and modeling tools:
+- **Brownian Motion**: Stochastic paths for asset prices
+- **Local Volatility**: Smile-aware volatility modeling
+- **Option Pricing**: Monte Carlo & closed-form methods, Greeks estimation
+
+### 📰 LLM – Fast Financial Times (2022)
+A GPT-powered summarizer of daily Financial Times news, tailored for quick insights on market-moving stories. Currently being revamped.
+
+---
+
+## 💼 My Experience
+
+### Barclays – Fixed Income Trader Intern
+- Developed a dashboard to manage daily swaption expiries, improving trader workflow and reducing errors.
+- Built ML models to forecast volatility surface shifts; integrated these into dashboards to support trading and hedging decisions.
+
+### Natixis – Fixed Income Trader Intern
+- Created an algorithmic tool to generate bond trade indicators using statistical models and yield curve analysis.
+- Designed a liquidity flow monitoring dashboard used by traders and sales teams to track real-time client activity.
+
+---
+
+> 📌 *All content is for educational purposes only. Use with caution and adapt to your specific use cases.*
+
+Feel free to connect or reach out if you want to discuss quant finance, trading tools, or open-source projects!

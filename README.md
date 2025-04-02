@@ -11,6 +11,6 @@ Check out some of my work below:
 - 🤖 [Loan Default ML Models](#) – Predicting credit risk with real datasets  
 - 🌀 [Volatility Surface Simulation](#) – Local volatility, Black-Scholes, Greeks
 
-💼 Past internships at Barclays and Natixis — building dashboards, pricing models, and tools for fixed income desks.
+💼 Past internships at Barclays and Natixis — building dashboards, pricing models, and tools for fixed income trading desks.
 
 Feel free to connect or reach out!

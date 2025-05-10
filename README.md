@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Maxime — a market finance student passionate about trading, data science, and algorithmic tools.
+I'm Maxime — a market finance student passionate about market finance, data science, and algorithmic tools.
 
 🚀 I'm building [MLArchitect](https://github.com/maximemasson/mlarchitect), a modular Python package for efficient machine learning pipelines. It provides a plug-and-play modular architecture. Primarily developed for financial applications, it includes advanced feature engineering, selection, and integrated SHAP analysis to build predictive models quickly and efficiently.
 
